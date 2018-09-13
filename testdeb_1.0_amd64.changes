@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 12 Sep 2018 08:51:18 +0000
+Source: testdeb
+Binary: testdeb
+Architecture: source all
+Version: 1.0
+Distribution: xenial
+Urgency: low
+Maintainer: Andrei Kalinkin <akalinkin@mirantis.com>
+Changed-By: Andrei Kalinkin <akalinkin@mirantis.com>
+Description:
+ testdeb    - testing creation installation of .deb package
+Changes:
+ testdeb (1.0) xenial; urgency=low
+ .
+   * Initial release
+Checksums-Sha1:
+ 8727c269ac91f8e250372bfb4f291ed5de740813 527 testdeb_1.0.dsc
+ 4391dc03a6b93186509814fde1c94c5ca7085fe4 1248 testdeb_1.0.tar.xz
+ 9ec72ac71fb366b891a64299c3d01a25f4ccbd6b 1694 testdeb_1.0_all.deb
+Checksums-Sha256:
+ a8d9418f546afd901b0277affdcc1ea173d5ea765000ff7ced76a67c5c5cdf9d 527 testdeb_1.0.dsc
+ 89fe27c88c3d09cb5b1a3355ac414b49ca4196d0b49aed93b086c2fad2ff8a1b 1248 testdeb_1.0.tar.xz
+ 21ecfc154da8f7493ff934ed37c42ea561e1e9798474df95faa1c06aa98a0098 1694 testdeb_1.0_all.deb
+Files:
+ afa38a2587d43cbc50fb9a3b5aa4b648 527 misc extra testdeb_1.0.dsc
+ fe48d0775e343b893607458788f9f68f 1248 misc extra testdeb_1.0.tar.xz
+ 0d2bdd700d3d4aa00a1ff7be60c7d95c 1694 misc extra testdeb_1.0_all.deb

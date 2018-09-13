@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo Why do you $USERNAME want to fuck the police?
+read answer
+echo
+sleep 1
+echo  \"$answer\" is not a valid reason to want to fuck the police!

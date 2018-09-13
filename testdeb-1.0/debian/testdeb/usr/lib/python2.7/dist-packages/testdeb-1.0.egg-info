@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: testdeb
+Version: 1.0
+Summary: testing creation installation of .deb package
+Home-page: https://vk.com
+Author: Andrei Kalinkin
+Author-email: akalinkin@mirantis.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

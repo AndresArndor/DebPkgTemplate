@@ -1,0 +1,6 @@
+testdeb (1.0) xenial; urgency=low
+
+  * Initial release
+
+ -- Andrei Kalinkin <akalinkin@mirantis.com>  Wed, 12 Sep 2018 08:51:18 +0000
+

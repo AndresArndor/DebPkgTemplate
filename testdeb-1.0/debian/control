@@ -1,0 +1,13 @@
+Source: testdeb
+Section: misc
+Priority: extra
+Standards-Version: 3.9.3
+Maintainer: Andrei Kalinkin <akalinkin@mirantis.com>
+Build-Depends: python-all, python-setuptools, debhelper (>= 7)
+
+Package: testdeb
+Architecture: all
+Section: misc
+Priority: extra
+Depends: ${python:Depends}, ${misc:Depends}
+Description: testing creation installation of .deb package

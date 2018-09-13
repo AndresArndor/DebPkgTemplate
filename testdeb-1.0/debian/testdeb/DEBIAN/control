@@ -1,0 +1,9 @@
+Package: testdeb
+Version: 1.0
+Architecture: all
+Maintainer: Andrei Kalinkin <akalinkin@mirantis.com>
+Installed-Size: 14
+Depends: python (>= 2.7), python (<< 2.8)
+Section: misc
+Priority: extra
+Description: testing creation installation of .deb package
